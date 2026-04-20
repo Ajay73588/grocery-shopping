@@ -1,0 +1,9 @@
+openai>=1.0.0
+python-docx
+wikipedia
+python-dotenv
+fastapi
+uvicorn
+duckduckgo-search
+beautifulsoup4
+requests
